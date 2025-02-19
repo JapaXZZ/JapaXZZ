@@ -6,6 +6,9 @@ Links úteis
 
 Site relacionado: https://www.platformdestroyer.me/
 
+Site Scripts:
+https://cmsphacks.xyz/
+
 Download do aplicativo: https://www.mediafire.com/file/mkn6a2ymw787j3d/Sala_do_Futuro_-_Hacks_2.4.apk/file
 
 
