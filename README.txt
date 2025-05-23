@@ -29,12 +29,20 @@ Anna
 996681699moH!
 
 Moisés 
-1249296584sp    ❌ Erro
+1249296584sp
 87295752M@i
 
 Kaic
 1117508237sp
 Ksc@1710
+
+Rayane
+1113859660sp
+Rscc@2803
+
+João Pedro (Miojo)
+1113947433sp 
+Jps@1304
 
 Guilherme Ceciliato
 1113948334sp
