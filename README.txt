@@ -2,7 +2,7 @@ RA alunos
 
 --------
 
-22/05
+31/05
 
 Edu
 1113949089sp 
@@ -28,8 +28,12 @@ Anna
 1119526413sp
 996681699moH!
 
+Ana Martins
+1113950201sp
+Acm@2023
+
 Moisés 
-1249296584sp
+1249296584sp 
 87295752M@i
 
 Kaic
@@ -59,6 +63,14 @@ Nfss@2507
 Maria Heloísa 
 1113949454sp
 Mhrs@2023
+
+Isa Rufino
+1105079302
+Casari2023@
+
+Luana
+1108635106sp
+Lmss@2023
 
 Lucas Arruda
 1113949223sp
