@@ -2,7 +2,7 @@ RA alunos
 
 --------
 
-31/05
+04/06
 
 Edu
 1113949089sp 
@@ -65,8 +65,20 @@ Maria Heloísa
 Mhrs@2023
 
 Isa Rufino
-1105079302
+1105079302sp
 Casari2023@
+
+Hyago
+1111486797sp
+Zueira@23
+
+Leonardo 
+1089952636sp
+Lrl@1905
+
+Eduardo S.
+1097327164sp
+Aluno@102030
 
 Luana
 1108635106sp
@@ -75,3 +87,6 @@ Lmss@2023
 Lucas Arruda
 1113949223sp
 Lmam@2023
+
+rg579916790sp
+Nbf@2026
