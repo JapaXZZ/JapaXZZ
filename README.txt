@@ -87,6 +87,3 @@ Lmss@2023
 Lucas Arruda
 1113949223sp
 Lmam@2023
-
-rg579916790sp
-Nbf@2026
