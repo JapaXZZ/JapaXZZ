@@ -2,7 +2,7 @@ RA alunos
 
 --------
 
-04/06
+05/06
 
 Edu
 1113949089sp 
@@ -87,3 +87,19 @@ Lmss@2023
 Lucas Arruda
 1113949223sp
 Lmam@2023
+
+Ayumi
+1078334559sp
+Aiam@1605
+
+Davi
+11042432sp
+Aluno@0910
+
+Izabelli
+110424326xsp
+Aluno@1309
+
+Yasmin Moura
+111608546xsp  
+Ymlm@2023
