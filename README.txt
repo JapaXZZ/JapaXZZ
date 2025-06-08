@@ -2,6 +2,18 @@ RA alunos
 
 --------
 
+IAs alternativas
+
+https://chat.mistral.ai/chat
+
+https://www.phind.com/
+
+https://chat.qwen.ai/
+
+https://toolbaz.com/writer/chat-gpt-alternative
+
+--------
+
 05/06
 
 Ana Martins
