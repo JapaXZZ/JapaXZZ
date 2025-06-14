@@ -1,9 +1,5 @@
 RA alunos
 
-netsh wlan show profiles
-
-netsh wlan show profile name="NOME_DO_WIFI" key=clear
-
 --------
 
 0001113949867
