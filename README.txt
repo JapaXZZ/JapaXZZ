@@ -2,11 +2,7 @@ RA alunos
 
 --------
 
-0001113949867
-
-Jpss@1512
-
-05/06
+20/06
 
 Ana Martins
 1113950201sp
@@ -44,6 +40,10 @@ Gabriel Gonçalves
 1114586134sp
 Ggf@2023
 
+Gabriel Aparecido
+1113949090sp
+Aluno@2107
+
 Guilherme Ceciliato
 1113948334sp
 Alun@2112
@@ -71,6 +71,10 @@ Jps@1304
 João Rafael
 1077615358sp
 Jrcs@1806
+
+João Pedro Santos Silva
+1113949867sp
+Jpss@1512
 
 Kaic
 1117508237sp
