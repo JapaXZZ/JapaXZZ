@@ -2,7 +2,8 @@ RA alunos
 
 --------
 
-20/06
+25/06
+
 
 Ana Martins
 1113950201sp
@@ -21,12 +22,16 @@ David
 Dtsm@2023
 
 Davi
-11042432sp
+1078334559sp
 Aluno@0910
 
 Edu
 1113949089sp
 Ecrf@2026
+
+Evelin
+1091357754sp
+Ess@2023
 
 Eduardo S.
 1097327164sp
