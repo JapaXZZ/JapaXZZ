@@ -2,8 +2,7 @@ RA alunos
 
 --------
 
-25/06
-
+26/06
 
 Ana Martins
 1113950201sp
@@ -81,6 +80,10 @@ João Pedro Santos Silva
 1113949867sp
 Jpss@1512
 
+Kauan
+1113950092sp
+Aluno@0410
+
 Kaic
 1117508237sp
 Ksc@1710
@@ -116,3 +119,7 @@ Rscc@2803
 Yasmin Moura
 111608546xsp
 Ymlm@2023
+
+Yasmim Aiko
+1114789689sp
+Ra1114789689&
