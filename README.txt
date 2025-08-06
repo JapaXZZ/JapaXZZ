@@ -2,7 +2,7 @@ RA alunos
 
 --------
 
-26/06
+06/08
 
 Ana Martins
 1113950201sp
@@ -67,6 +67,10 @@ Casari2023@
 Izabelli
 110424326xsp
 Aluno@1309
+
+Isabelly Vitória 
+1116534423sp
+Ivnr@2407
 
 João Pedro (Miojo)
 1113947433sp
