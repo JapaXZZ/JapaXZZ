@@ -135,7 +135,3 @@ Aluno@0410
 Yan Riquelme
 1164009126sp 
 Aluno@1809
-
-
-1113784702
-Jgars@2909
