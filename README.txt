@@ -1,8 +1,9 @@
-RA alunos
+Login de Estudantes
 
 --------
 
-22/08
+26/08
+
 
 Ana Martins
 1113950201sp
@@ -13,7 +14,7 @@ Anna
 996681699moH!
 
 Ayumi
-1078334559sp
+1114915774sp
 Aiam@1605
 
 David
@@ -92,6 +93,10 @@ Kaic
 1117508237sp
 Ksc@1710
 
+Kauan
+1113950092sp
+Aluno@0410
+
 Leonardo
 1089952636sp
 Lrl@1905
@@ -117,7 +122,7 @@ Nicole Ferraz
 Nfss@2507
 
 Nataly
-111588752Xsp 
+111588752xsp
 Nvcs@1905
 
 Rayane
@@ -132,10 +137,6 @@ Yasmim Aiko
 1114789689sp
 Ra1114789689&
 
-Kauan
-1113950092sp
-Aluno@0410
-
 Yan Riquelme
-1164009126sp 
+1164009126sp
 Aluno@1809
