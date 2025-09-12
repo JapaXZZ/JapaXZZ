@@ -2,7 +2,7 @@ Login de Estudantes
 
 --------
 
-02/09
+12/09
 
 
 Ana Martins
@@ -121,6 +121,14 @@ Moisés
 1249296584sp
 87295752M@i
 
+Mariana Faustina
+1225921594sp
+Mfl@0407
+
+Maria Eduarda Silvestre 
+1144248279sp
+Aluno@2806
+
 Nicole Ferraz
 1114274392sp
 Nfss@2507
@@ -132,6 +140,10 @@ Nvcs@1905
 Rayane
 1113859660sp
 Rscc@2803
+
+Vinícius 
+1115992326sp
+Vgos@22042008
 
 Yasmin Moura
 111608546xsp
